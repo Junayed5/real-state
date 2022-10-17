@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Palm Harbor",
+        "price": 2095,
+        "type": "Houses",
+        "address" : "2699 Green valley,Highland Lake,FL",
+        "img": "https://dvyvvujm9h0uq.cloudfront.net/com/articles/1523966977-realestatephotography-featured.jpg"
+
+    },
+    {
+        "id": 2,
+        "name": "Beverly Springfield",
+        "price": 2700,
+        "type": "Duplex",
+        "address" : "2699 Green valley,Highland Lake,FL",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyeZ9Z7Jybgw-N8aALFKDRooZRrBaG8hQqvA&usqp=CAU"
+
+    },
+    {
+        "id": 3,
+        "name": "Faulkner Ave",
+        "price": 4555,
+        "type": "Duplex",
+        "address" : "2699 Green valley,Highland Lake,FL",
+        "img": "https://improvephotography.com/wp-content/uploads/2016/01/real-estate-photography.jpg"
+
+    },
+    {
+        "id": 4,
+        "name": "Millfield Lodge",
+        "price": 1080,
+        "type": "Houses",
+        "address" : "2699 Green valley,Highland Lake,FL",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrcNwz_ruSz859Q3lYCwm1MX_r3Yr_MadkPg&usqp=CAU"
+
+    },
+    {
+        "id": 5,
+        "name": "Dreamwood",
+        "price": 3000,
+        "type": "Duplex",
+        "address" : "2699 Green valley,Highland Lake,FL",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0StffcM6f3Z44G_UA9bKyZ-RDlaLgjfRyLQ&usqp=CAU"
+
+    },
+    {
+        "id": 6,
+        "name": "The Castle",
+        "price": 2575,
+        "type": "Houses",
+        "address" : "2699 Green valley,Highland Lake,FL",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0nhnAcWCtrZK93H3dJL2AS2TLlJCpRRSJR81qy1KiXVXd6MB88PDxh3MGCxwjoiKtdx4&usqp=CAU"
+
+    }
+]
